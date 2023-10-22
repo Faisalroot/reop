@@ -15,7 +15,7 @@ Depiction: رابط صفحة الوصف
 Name: اسم  الاداه 
 
 Package: com.mtac.ampere
-Version: ا1.2
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: Root
 Depends:  mobilesubstrate, firmware (>= 14.0), preferenceloader
