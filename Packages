@@ -1,0 +1,30 @@
+
+Package: معرف الاداة 
+Version: الاصدار
+Architecture: iphoneos-arm
+Maintainer: اكتب اسمك
+Depends: المتطلبات 
+Conflicts: التعارضات
+Filename: موقع الملف
+Size: 
+MD5sum: 
+SHA1: 
+SHA256: 
+Section: Tweaks
+Depiction: رابط صفحة الوصف 
+Name: اسم  الاداه 
+
+Package: com.mtac.ampere
+Version: ا1.2
+Architecture: iphoneos-arm64
+Maintainer: Root
+Depends:  mobilesubstrate, firmware (>= 14.0), preferenceloader
+Conflicts: iOS Rootless 14+
+Filename: debs/com.mtac.ampere_1.2.deb
+Size: 98322
+MD5sum: 70855b7f980000f6639474d6cf63388f
+SHA1: c2b5ffacd16f7095f94ca2b109ff13a322c931a7
+SHA256: 829915dea7539c50f33fa106625626186d7950fd5b53903ac3ef52565e4fcfeb
+Section: Tweaks
+Depiction: https://faisalroot.github.io/repo/
+Name: ampere
