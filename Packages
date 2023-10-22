@@ -1,0 +1,17 @@
+Package: com.mtac.ampere
+Name: Ampere
+Architecture: iphoneos-arm64
+Description: iOS 16 Style Battery Indicator
+Maintainer: mtac <mtac@mtac.app>
+Author: mtac <mtac@mtac.app>
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Version: 1.2
+Installed-Size: 604
+Size: 98322
+MD5sum: 70855b7f980000f6639474d6cf63388f
+SHA256: 829915dea7539c50f33fa106625626186d7950fd5b53903ac3ef52565e4fcfeb
+Filename: debs/com.mtac.ampere_1.2.deb
+Depiction: https://havoc.app/depiction/ampere
+SileoDepiction: https://havoc.app/package/ampere/depiction.json
+Icon: https://media.havoc.app/638be16badf93b0004f9807a
